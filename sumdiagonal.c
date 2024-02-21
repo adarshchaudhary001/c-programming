@@ -3,7 +3,7 @@ int main()
 {
     int i,j,a[10][10],m,sum = 0;
     printf("Enter order the square matrix ");
-    scanf ("%d%d",&m);
+    scanf ("%d",&m);
     printf ("Enter the elements "):
     for ( i = 0; i < m; i++) 
     {
